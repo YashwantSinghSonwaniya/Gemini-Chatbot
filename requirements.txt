@@ -1,0 +1,5 @@
+GEMINI_API_KEY=YOUR_REAL_KEY_HERE
+
+streamlit
+google-genai
+python-dotenv
